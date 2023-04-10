@@ -1,0 +1,5 @@
+com/mycompany/websocketdemo/JakartaRestConfiguration.class
+websocket/DeviceWebSocketServer.class
+websocket/DeviceSessionHandler.class
+com/mycompany/websocketdemo/resources/JakartaEE8Resource.class
+model/Device.class
